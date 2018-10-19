@@ -1,3 +1,5 @@
+//calculate median of running array.
+
 import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.Arrays;
