@@ -1,3 +1,6 @@
+//Given some number of villages and hospitals.We have to allocate hospitals to villages such that every village gets atleast 1 hospital
+//and load on each hospital is minimized.
+
 import java.util.PriorityQueue;
 import java.util.Collections;
 
